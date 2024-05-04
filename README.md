@@ -1,1 +1,1 @@
-# 3_stage_pipelined_with_UART_integration_processor
+# 3_stage_pipelined_with_UART_integrated_processor
